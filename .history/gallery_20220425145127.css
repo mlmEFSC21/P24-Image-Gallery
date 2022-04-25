@@ -1,0 +1,28 @@
+body {
+    background-color: #333333;
+    color: #eaeaea;
+}
+#gallery1 {
+    width: 800px;
+}
+#gallery1 ul {
+    width: 300px;
+    list-style-type: none;
+    float: left;
+}
+#gallery1 li {
+    display: inline;
+    float: left;
+    padding: 16px;
+}
+#gallery1 img {
+    border-style: none;
+}
+figure {
+    padding-top: 30px;
+    text-align: center;
+}
+figcaption {
+    font-weight: bold;
+    font-size: 1.5em;
+}
